@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Bhoomika Vaghela 👋
+A Frontend Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.
+- 📫 You can reach me at bhoomi1193@gmail.com
 
 <!--
 **BhoomikaCodes/BhoomikaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
